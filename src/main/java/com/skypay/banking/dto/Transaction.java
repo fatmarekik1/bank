@@ -1,5 +1,5 @@
 
-package com.skypay.banking.domain;
+package com.skypay.banking.dto;
 
 import java.time.LocalDate;
 

@@ -1,7 +1,7 @@
 
 package com.skypay.banking.service;
 
-import com.skypay.banking.domain.Transaction;
+import com.skypay.banking.dto.Transaction;
 import com.skypay.banking.exception.InsufficientBalanceException;
 import com.skypay.banking.exception.InvalidAmountException;
 import org.springframework.stereotype.Service;
